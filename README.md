@@ -22,6 +22,7 @@ This is a django-react app for simple authentication, uploading json file, and v
 1. cd SimpleProject, create a virtualenv, activate it and install -r requirements.txt
 2. python manage.py makemigrations , python manage.py migrate , createsuperuser
 3. python manage.py runserver
-
+#### File upload
+  - format for the json file to be uploaded is given in this file: json_file_format.json 
 
 
